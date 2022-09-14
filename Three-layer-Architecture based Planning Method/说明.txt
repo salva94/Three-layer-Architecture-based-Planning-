@@ -1,0 +1,5 @@
+论文中V. EXPERIMENTAL APPLICATION AND ANALYSIS部分ABC分别对应文件夹experiment1，2，3，
+experiment1，2，3中提供了本论文算法的matlab代码，部分试验的原始记录和画图
+experiment1中路径规划部分算法为C++编写，基于Linux20.04+ROS noetic版本运行，为无人车上实际运行的代码，由于依赖库太多，故不提供
+实车试验采用的平台由于保密原因，无法提供照片和试验过程和算法效果的视频记录，
+本论文已经过脱密处理，只用于学术交流，不涉及平台、应用、试验场地等敏感内容
